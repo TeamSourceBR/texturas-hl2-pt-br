@@ -1,0 +1,70 @@
+div style="clear: both;"></div>
+<div class="headermediabox">
+	<div class="supporter"><div class="DBsupporter" data-dfp-id="MODDB_LB_1" data-dfp-sizes="728x90, 960x250, 970x250" id="div-ga-MODDB_LB_1"></div></div> 
+</div>
+<div itemscope itemtype="https://schema.org/SoftwareApplication"><div class="column span-all tabsummary"><meta itemprop="applicationCategory" content="Game, Mod" /><meta itemprop="operatingSystem" content="Windows" /><meta itemprop="screenshot" content="https://media.moddb.com/images/mods/1/37/36728/Anomaly-Logo-2.jpg" />	<div class="headerbox" style="background-image: url(https://media.moddb.com/images/mods/1/37/36728/header_06.jpg);">
+		<div class="headercorner">
+			<div class="title">
+				 
+				<h2 itemprop="name"><a href="/mods/stalker-anomaly" itemprop="mainEntityOfPage">S.T.A.L.K.E.R. Anomaly</a></h2>
+				<h3>
+					<a href="/games/stalker-call-of-pripyat">S.T.A.L.K.E.R.: Call of Pripyat mod</a> | <time datetime="2018-05-11" itemprop="datePublished">Released 2018</time>				</h3>
+				<span class="bg"></span>
+			</div>
+			<nav><ul class="menu">
+				<li class="on firsttab"><a href="/mods/stalker-anomaly">summary</a></li><li class=""><a href="/mods/stalker-anomaly/articles">articles</a></li><li class=""><a href="/mods/stalker-anomaly/reviews">reviews</a></li><li class=""><a href="/mods/stalker-anomaly/downloads">files</a></li><li class=""><a href="/mods/stalker-anomaly/addons">addons</a></li><li class=""><a href="/mods/stalker-anomaly/videos">videos</a></li><li class=""><a href="/mods/stalker-anomaly/images">images</a></li><li class=""><a href="/mods/stalker-anomaly/forum">forum</a></li>			</ul></nav>
+		</div>
+	</div>
+		<div class="headernormalbox normalbox">
+		<div class="inner">
+			<div class="body clear">
+								<div class="tooltip"></div>
+								<p itemprop="description">The stand-alone mod S.T.A.L.K.E.R. Anomaly aims to be the most stable and customizable experience for fans of the S.T.A.L.K.E.R. games. It's powered by the Monolith 64-bit engine, a custom fork of the X-Ray engine.</p>			</div>
+		</div>
+	</div>
+<style>
+Style Attribute {
+	background-color: #646464;
+}
+
+div.headermediabox {
+margin-top: 250px;
+}
+
+div.headermediabox div.supporter {
+width: 980px;
+height: 250px;
+padding: 0;
+}
+
+div.headermediabox div.supporter, div.footermediabox div.supporter, div.nextmediabox div.supporter, div.smallmediabox div.supporter {
+    display: block;
+    padding: 5px;
+    text-align: center;
+    z-index: 1;
+	background: rgba(0,0,0,0);
+}
+ 
+div.normalbox div.table div.row:nth-of-type(2n-1) div.content p {
+    border-top: transparent;
+}
+
+div.normalbox div.table div.row:nth-of-type(2n-1) {
+    background-color: #242424;
+}
+
+div.normalbox div.tablecomments {
+    background: none;
+	margin-left: 10px;
+}
+
+body {
+    background-image: url("https://i.imgur.com/9GRHmem.png");
+    background-size: auto auto;
+    background-position: center top;
+    background-attachment: scroll;
+    background-color: rgb(13, 13, 13);
+    background-repeat: no-repeat;
+        -webkit-font-smoothing: antialiased!important;
+}
+
