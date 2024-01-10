@@ -37,7 +37,7 @@ def copiar_arquivo(origem, destino):
     shutil.copy2(origem, destino)
 
 def altobuild():
-    caminho_pasta_verificacao = "/home/david/Projetos/HL2 tradução das texturas/5. Traduzidos"  # Substitua pelo caminho desejado
+    caminho_pasta_verificacao = "/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/6. Traduzidos"  # Substitua pelo caminho desejado
     arquivos_app = listar_arquivos_em_pasta(caminho_pasta_verificacao)
 
     if arquivos_app:

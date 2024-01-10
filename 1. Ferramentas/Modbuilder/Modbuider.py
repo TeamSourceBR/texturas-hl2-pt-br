@@ -3,22 +3,22 @@ import colorama
 from colorama import Fore
 
 def opcao_1():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Busca.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Busca.py'")
 
 def opcao_2():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Organizar.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Organizar.py'")
 
 def opcao_3():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Compilador.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Compilador.py'")
 
 def opcao_4():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Compactar.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Compactar.py'")
 
 def opcao_5():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Aplicar.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Aplicar.py'")
 
 def opcao_6():
-    os.system("python3 '/home/david/Projetos/HL2 tradução das texturas/1. Ferramentas/Modbuilder/Funções/Automake.py'")
+    os.system("python3 '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/1. Ferramentas/Modbuilder/Funções/Automake.py'")
 
 def clear_screen():
     os.system('cls' if os.name == 'nt' else 'clear')

@@ -25,7 +25,7 @@ if __name__ == "__main__":
     init(autoreset=True)
 
     # Substitua o caminho do diretório desejado
-    diretorio = "/home/david/Projetos/HL2 tradução das texturas/2. Compilação"
+    diretorio = "/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação"
 
     print(f"{Style.BRIGHT}({Fore.YELLOW}1.{Style.RESET_ALL} {Style.BRIGHT}VPK v1 {Fore.YELLOW}2.{Style.RESET_ALL} {Style.BRIGHT}VPK v2):{Style.RESET_ALL}", end="")
 

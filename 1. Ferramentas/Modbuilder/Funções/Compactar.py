@@ -4,10 +4,10 @@ import os
 
 def criar_zip(pasta_origem, pasta_destino, nome_arquivo_zip):
     # Caminho completo do arquivo "hl2_textures_dir.vpk"
-    caminho_arquivo_origem = "/home/david/Projetos/HL2 tradução das texturas/2. Compilação/hl2_textures_dir.vpk"
+    caminho_arquivo_origem = "/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação/hl2_textures_dir.vpk"
     
     # Caminho completo do arquivo "Leia-me"
-    caminho_leia_me = "/home/david/Projetos/HL2 tradução das texturas/2. Compilação/Leia-me.txt"
+    caminho_leia_me = "/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação/Leia-me.txt"
     
     # Caminho completo do arquivo ZIP
     caminho_zip = os.path.join(pasta_destino, nome_arquivo_zip)
@@ -31,8 +31,8 @@ def criar_zip(pasta_origem, pasta_destino, nome_arquivo_zip):
     print("\033[1;32mCompactação concluída com sucesso!\033[0m")
 
 # Exemplo de uso
-pasta_origem = '/home/david/Projetos/HL2 tradução das texturas/2. Compilação/'
-pasta_destino = '/home/david/Projetos/HL2 tradução das texturas/2. Compilação/'
+pasta_origem = '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação/'
+pasta_destino = '/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação/'
 nome_arquivo_zip = 'Texturas PT-BR.zip'
 
 criar_zip(pasta_origem, pasta_destino, nome_arquivo_zip)

@@ -41,7 +41,7 @@ def main():
 
     if opcao == "1":
         nome_arquivo_pesquisa = input(f"Digite o nome do arquivo a ser pesquisado:")
-        caminho_pasta = os.path.join(os.environ["HOME"], "Projetos", "HL2 tradução das texturas", "3. Original vpk completo")
+        caminho_pasta = os.path.join(os.environ["HOME"], "Projetos", "Source BR", "Projetos", "texturas-hl2-pt-br", "3. Original vpk completo")
 
         resultados = procurar_arquivo(nome_arquivo_pesquisa, caminho_pasta)
 
@@ -52,13 +52,13 @@ def main():
             print(f"{formatar_nome_arquivo(nome_arquivo_pesquisa)} {formatar_mensagem_erro('Não encontrado')}")
 
     elif opcao == "2":
-        caminho_pasta_app = "/home/david/Projetos/HL2 tradução das texturas/5. Traduzidos"
+        caminho_pasta_app = "/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/6. Traduzidos"
         arquivos_app = listar_arquivos(caminho_pasta_app)
 
         if arquivos_app:
             for arquivo in arquivos_app:
                 nome_arquivo = os.path.basename(arquivo)
-                caminho_pasta = os.path.join(os.environ["HOME"], "Projetos", "HL2 tradução das texturas", "3. Original vpk completo")
+                caminho_pasta = os.path.join(os.environ["HOME"], "Projetos", "Source BR", "Projetos", "texturas-hl2-pt-br", "3. Original vpk completo")
                 resultados = procurar_arquivo(nome_arquivo, caminho_pasta)
                 if resultados:
                     for resultado in resultados:

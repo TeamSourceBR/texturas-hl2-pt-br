@@ -13,7 +13,7 @@ if __name__ == "__main__":
     init(autoreset=True)
 
     # Caminho completo do arquivo a ser copiado
-    caminho_arquivo = "'/home/david/Projetos/HL2 tradução das texturas/2. Compilação/hl2_textures_dir.vpk'"
+    caminho_arquivo = "'/home/david/Projetos/Source BR/Projetos/texturas-hl2-pt-br/2. Compilação/hl2_textures_dir.vpk'"
 
     # Comando desejado
     comando = f"cp -f {caminho_arquivo} '/home/david/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Half-Life 2/hl2/custom' && rm '/home/david/.var/app/com.valvesoftware.Steam/.local/share/Steam/steamapps/common/Half-Life 2/hl2/custom/hl2_textures.vpk.sound.cache'"
