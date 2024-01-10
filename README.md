@@ -18,7 +18,7 @@
 
 ## Prints
 
-![](texturas-hl2-pt-br/7. Sites e conteúdos/Imagens do mod/1.png)](https://github.com/TeamSourceBR/texturas-hl2-pt-br/blob/main/7.%20Sites%20e%20conte%C3%BAdos/Imagens%20do%20mod/1.png)
+![](texturas-hl2-pt-br/7. Sites e conteúdos/Imagens do mod/1.png)(https://github.com/TeamSourceBR/texturas-hl2-pt-br/blob/main/7.%20Sites%20e%20conte%C3%BAdos/Imagens%20do%20mod/1.png)
 ![](7. Sites e conteúdos/Imagens do mod/2.png)
 ![](7. Sites e conteúdos/Imagens do mod/3.png)
 ![](7. Sites e conteúdos/Imagens do mod/4.png)
