@@ -1,4 +1,4 @@
-![](7. Sites e conteúdos/Moddb/Post news logo.png)
+![](./7. Sites e conteúdos/Moddb/Post news logo.png)
 
 ### Estrutura de Organização
 
