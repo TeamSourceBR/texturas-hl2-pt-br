@@ -18,7 +18,7 @@
 
 ## Prints
 
-![](7. Sites e conteúdos/Imagens do mod/1.png)
+![](texturas-hl2-pt-br/7. Sites e conteúdos/Imagens do mod/1.png)
 ![](7. Sites e conteúdos/Imagens do mod/2.png)
 ![](7. Sites e conteúdos/Imagens do mod/3.png)
 ![](7. Sites e conteúdos/Imagens do mod/4.png)
