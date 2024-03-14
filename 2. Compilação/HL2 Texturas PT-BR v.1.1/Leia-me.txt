@@ -1,0 +1,7 @@
+Você pode usar o arquivo .zip, siga essas instruções:
+
+Vá na pasta onde está instalado seu Half-Life 2, que costuma ser:
+"...Program Files (x86)\Steam\steamapps\common\Half-Life 2"
+Extraia a pasta "custom" do mod para a pasta "hl2";
+
+Pronto, já pode jogar!
